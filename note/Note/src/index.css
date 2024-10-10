@@ -1,0 +1,25 @@
+.App {
+  padding: 5px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.edit {
+  flex-grow: 1;
+}
+
+button {
+  margin-left: 15px;
+}
+
+textarea {
+  width: 100%;
+}
